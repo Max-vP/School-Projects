@@ -28,6 +28,7 @@ During the final project week, some of the requirements were changed, which resu
 - Document, test and validate the complete environment.
 - Communicate professionally with users and team members.
 - Work effectively as a team and manage tasks using Trello.
+- Research, compare and recommend software solutions based on cost, features and business requirements.
 
 Compared to Semester 2, the network environment became larger and more complex. More focus was placed on IPv6, redundancy, documentation, testing and professional communication.
 
