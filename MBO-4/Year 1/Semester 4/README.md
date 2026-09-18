@@ -89,3 +89,7 @@ I have learned a lot about basically everything that is listed above.
 The first year covered a broad range of IT topics, while next year we will start specializing in specific areas.
 As it says in my README, I am really interested in Cybersecurity and this will be my focus and specialization.
 I am not yet sure whether I want to continue my studies at HBO or start working after completing this education.
+
+> Disclaimer: Use the WiFi Password Viewer responsibly for educational and administrative purposes only. Instructions for use are included in the script file.
+> 
+> This tool only displays passwords for Wi‑Fi networks stored on the local device. It may show passwords for WPA‑PSK, WPA2‑PSK, WPA/WPA2 Mixed, and sometimes WPA3‑SAE networks. Enterprise networks that use usernames, passwords, or certificates may not expose a Wi‑Fi password.
