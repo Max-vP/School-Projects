@@ -36,3 +36,5 @@ Compared to Semester 2, the network environment became larger and more complex. 
 Looking back, I learned that troubleshooting becomes much easier when you work systematically. For future projects, it would probably be better to start at the top of the topology and work through it step by step instead of working on multiple parts at the same time.
 
 This semester also improved my teamwork, planning, documentation and communication skills.
+
+> I do not have much to show from this semester only a topology.
